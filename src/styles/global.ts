@@ -1,4 +1,14 @@
 import { createGlobalStyle } from 'styled-components';
+import {
+  FaPlus,
+  FaUserAlt,
+  FaUsers,
+  FaChartPie,
+  FaNotesMedical,
+  FaClipboardCheck,
+  FaPills,
+  FaUserMd,
+} from 'react-icons/fa';
 import githubBackground from '../assets/github-background.svg';
 
 export default createGlobalStyle`
